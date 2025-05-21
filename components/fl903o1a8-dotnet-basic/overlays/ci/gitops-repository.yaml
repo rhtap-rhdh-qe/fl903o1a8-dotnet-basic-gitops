@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: fl903o1a8-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/fl903o1a8-dotnet-basic-gitops
